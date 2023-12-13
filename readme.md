@@ -45,7 +45,7 @@ This repository demonstrates the process of saving and loading machine learning 
 
 - The `model_training.ipynb` script trains a logistic regression model on the Iris dataset, evaluates its accuracy, and saves it using both `pickle` and `joblib`.
 
-- The `model_evaluation.py` script loads the saved models and makes predictions on new data (`new_data.csv`).
+- The `model_evaluation.py` script loads the saved models and makes predictions on new data.
 
 - The `requirements.txt` file specifies the required Python libraries and their versions.
 
